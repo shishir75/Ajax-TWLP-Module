@@ -1,0 +1,22 @@
+/* Your custom styles */
+
+
+.skill{
+	background: #fba991;
+	width: 100%;
+}
+.skill ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.skill ul li{
+	cursor:pointer;
+		padding: 6px 10px;
+}
+
+.skill ul li:hover{
+	background-color: red;
+	color: white;
+
+}
